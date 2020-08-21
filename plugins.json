@@ -437,6 +437,25 @@
 			"desc": "Allows your users with permissions\nto change their name/chat color!",
 			"jarName": "ChatColor.jar",
 			"configName": "ChatColor+"
-		}
+		},
+		{
+			"name": "Citizens (2)",  
+			"desc": "Oops",  
+			"jarName": "Citizens (2).jar",  
+			"configName": "Citizens(2)"  
+	},
+	{
+			"name": "Multiverse-core",  
+			"desc": "Extra worlds",  
+			"jarName": "Multiverse-Core-4.1.0 (3).jar",  
+			"configName": "Multiverse"  
+	},
+	{
+			"name": "CitizensCMD",  
+			"desc": "Add commands to Citizens npcs",  
+			"jarName": "CitizensCMD.jar",  
+			"configName": "CitizensCMD"  
+	}
+		
 	]
 }
